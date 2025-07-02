@@ -1,0 +1,58 @@
+2025-05-20 15:47:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-20 15:49:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-20 15:49:55 INFO  TC_002_LoginTest:15 - Starting TC_002_LoginTest
+2025-05-20 15:49:57 INFO  TC_002_LoginTest:41 - Finished TC_002
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\AppData\Local\Temp\testng-eclipse-1322761173\testng-customsuite.xml
+
+2025-05-20 16:32:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@389adf1d: 231 ms
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@460f76a6: 18 ms
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2baa8d82: 29 ms
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5471388b: 31 ms
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4a9cc6cb: 18 ms
+2025-05-20 16:32:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5990e6c5: 0 ms
+2025-05-20 16:33:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-20 16:33:32 INFO  TC_002_LoginTest:15 - Starting TC_002_LoginTest
+2025-05-20 16:33:35 INFO  TC_002_LoginTest:41 - Finished TC_002
+2025-05-20 23:13:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-20 23:13:37 INFO  TC_002_LoginTest:15 - Starting TC_002_LoginTest
+2025-05-20 23:13:39 INFO  TC_002_LoginTest:42 - Finished TC_002

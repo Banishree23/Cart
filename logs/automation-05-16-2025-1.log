@@ -1,0 +1,115 @@
+2025-05-16 00:06:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\crossbrowser.xml
+
+2025-05-16 00:07:06 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 00:07:06 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 00:07:08 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 00:07:08 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 00:07:08 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 00:07:09 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 00:07:10 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 00:07:10 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 00:07:12 INFO  TC_001_AccountRegistrationTest:53 - validating expected message
+2025-05-16 00:07:12 INFO  TC_001_AccountRegistrationTest:66 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 00:07:16 INFO  TC_001_AccountRegistrationTest:53 - validating expected message
+2025-05-16 00:07:16 INFO  TC_001_AccountRegistrationTest:66 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 00:07:25 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 00:07:26 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 00:07:26 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 00:07:27 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 00:07:27 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 00:07:27 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 00:07:28 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 00:07:28 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 00:07:30 INFO  TC_001_AccountRegistrationTest:53 - validating expected message
+2025-05-16 00:07:30 INFO  TC_001_AccountRegistrationTest:66 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 00:07:32 INFO  TC_001_AccountRegistrationTest:53 - validating expected message
+2025-05-16 00:07:32 INFO  TC_001_AccountRegistrationTest:66 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 00:29:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 00:31:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 00:31:38 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 00:31:39 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 00:31:40 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 00:31:40 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 00:31:42 INFO  TC_001_AccountRegistrationTest:53 - validating expected message
+2025-05-16 00:31:42 INFO  TC_001_AccountRegistrationTest:66 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\AppData\Local\Temp\testng-eclipse--1493381875\testng-customsuite.xml
+
+2025-05-16 09:19:02 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 25 ms.
+2025-05-16 09:19:02 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1fc0053e: 200 ms
+2025-05-16 09:19:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@11acdc30: 46 ms
+2025-05-16 09:19:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@791cbf87: 58 ms
+2025-05-16 09:19:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1601e47: 20 ms
+2025-05-16 09:19:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@56e07a08: 13 ms
+2025-05-16 09:19:03 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@35d6ca49: 0 ms
+2025-05-16 09:33:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 09:33:53 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 09:33:53 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 09:34:00 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 09:34:00 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 09:34:03 INFO  TC_001_AccountRegistrationTest:55 - validating expected message
+2025-05-16 09:34:03 INFO  TC_001_AccountRegistrationTest:68 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 23:19:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 23:19:52 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 23:19:53 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 23:19:53 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 23:19:53 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 23:19:56 INFO  TC_001_AccountRegistrationTest:55 - validating expected message
+2025-05-16 23:19:56 INFO  TC_001_AccountRegistrationTest:68 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 23:48:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 23:48:42 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 23:48:42 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 23:48:43 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 23:48:43 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 23:48:46 INFO  TC_001_AccountRegistrationTest:55 - validating expected message
+2025-05-16 23:48:46 INFO  TC_001_AccountRegistrationTest:68 - Finihing  TC_001_AccountRegistrationTest
+2025-05-16 23:49:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-16 23:50:03 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-16 23:50:04 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-16 23:50:05 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-16 23:50:05 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-16 23:50:08 INFO  TC_001_AccountRegistrationTest:55 - validating expected message
+2025-05-16 23:50:08 INFO  TC_001_AccountRegistrationTest:68 - Finihing  TC_001_AccountRegistrationTest

@@ -1,0 +1,24 @@
+2025-05-18 12:52:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-18 12:55:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-18 12:57:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-18 12:57:37 INFO  TC_001_AccountRegistrationTest:28 - Starting  TC_001_AccountRegistrationTest
+2025-05-18 12:57:38 INFO  TC_001_AccountRegistrationTest:32 - clickMyAccount
+2025-05-18 12:57:39 INFO  TC_001_AccountRegistrationTest:35 - clickREgister
+2025-05-18 12:57:39 INFO  TC_001_AccountRegistrationTest:38 - Entering customer details
+2025-05-18 12:57:41 INFO  TC_001_AccountRegistrationTest:55 - validating expected message
+2025-05-18 12:57:41 INFO  TC_001_AccountRegistrationTest:68 - Finihing  TC_001_AccountRegistrationTest
+2025-05-18 13:16:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-18 13:21:04 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
+2025-05-18 13:21:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\achar\092024 eclipse\cart\testng.xml
+
